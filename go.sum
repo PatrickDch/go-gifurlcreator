@@ -1,0 +1,4 @@
+github.com/jkershaw2000/go-tenor v0.0.0-20200728191921-3f3fd5c10bc8 h1:CZm/TExOTuOuMkEva9t9xzzzWwpFpxjP6feCLV7qkhk=
+github.com/jkershaw2000/go-tenor v0.0.0-20200728191921-3f3fd5c10bc8/go.mod h1:38lWoKyYeZ4qFsFxH0KOWvHH8nrM17escj5li1kSVa0=
+github.com/julienschmidt/httprouter v1.3.0 h1:U0609e9tgbseu3rBINet9P48AI/D3oJs4dN7jwJOQ1U=
+github.com/julienschmidt/httprouter v1.3.0/go.mod h1:JR6WtHb+2LUe8TCKY3cZOxFyyO8IZAc4RVcycCCAKdM=
