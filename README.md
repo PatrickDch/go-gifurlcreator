@@ -11,6 +11,7 @@ This reposity contains the code which powers gifapi url creation for shortfy.xyz
 ## Callback element
 
 * Extract the gif url from the api callback "gdata"
+    
     &Responseer{Status: http.StatusOK, Msg: "Gif Found", Url: gdata}
 
 ## ToDo
