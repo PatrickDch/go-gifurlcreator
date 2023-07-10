@@ -1,6 +1,6 @@
 # [GO-GIFurl]
 
-[![GIFurl](https://img.shields.io/badge/Shortfy.xyz-(%5E%EF%BD%A5%EF%BD%AA%EF%BD%A5%5E)-green)](https://github.com/PatrickDch/go-gifurlcreator)
+[![GIFurl](https://img.shields.io/badge/GIFurl-(%5E%EF%BD%A5%EF%BD%AA%EF%BD%A5%5E)-green)](https://github.com/PatrickDch/go-gifurlcreator)
 
 This reposity contains the code which powers gifapi url creation for shortfy.xyz(https://shortfy.xyz/)
 
@@ -11,7 +11,7 @@ This reposity contains the code which powers gifapi url creation for shortfy.xyz
 ## Callback element
 
 * Extract the gif url from the api callback "gdata"
-** &Responseer{Status: http.StatusOK, Msg: "Gif Found", Url: gdata}
+    &Responseer{Status: http.StatusOK, Msg: "Gif Found", Url: gdata}
 
 ## ToDo
 
